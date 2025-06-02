@@ -1,5 +1,5 @@
 
-unsigned int sw_long[SWNUM] = {0};
+unsigned int sw_long[SWNUM] = {0}; // TEST
 
 
 /*
