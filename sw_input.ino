@@ -3,7 +3,7 @@ unsigned int sw_long[SWNUM] = {0}; // TEST
 
 
 /*
-   SW長押し待ち
+   SW長押し待ち  Test!
 */
 void sw_long_wait()
 {
