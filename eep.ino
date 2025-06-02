@@ -2,7 +2,7 @@
 /*
    起動時のEEPデータ読み込み
 */
-#define EEP_PASS "daiki111"
+#define EEP_PASS "daiki123"
 void eep_data_get() {
   EEPData eep;
   // passworkcheck
